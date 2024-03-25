@@ -2,7 +2,7 @@ name: Deploy Frontend
 on:
   push:
     branches:
-      - naster
+      - master
 
 jobs:
   build:
